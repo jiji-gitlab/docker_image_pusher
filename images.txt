@@ -1,5 +1,4 @@
-obsidiandynamics/kafdrop:4.1.0
-docker.elastic.co/lasticsearch/lasticsearch:8.8.2
-docker.elastic.co/logstash/logstash:8.8.2
-docker.elastic.co/kibana/kibana:8.8.2
+docker.elastic.co/lasticsearch/lasticsearch:6.3.2
+docker.elastic.co/logstash/logstash:6.3.2
+docker.elastic.co/kibana/kibana:6.3.2
 
