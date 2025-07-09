@@ -1,4 +1,4 @@
-docker.elastic.co/lasticsearch/lasticsearch:6.3.2
-docker.elastic.co/logstash/logstash:6.3.2
-docker.elastic.co/kibana/kibana:6.3.2
+elasticsearch:6.3.2
+logstash:6.3.2
+kibana:6.3.2
 
