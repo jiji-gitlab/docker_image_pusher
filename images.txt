@@ -1,3 +1,5 @@
 obsidiandynamics/kafdrop:4.1.0
-mysql:8.0.42
+lasticsearch:8.8.2
+logstash:8.8.2
+kibana:8.8.2
 
