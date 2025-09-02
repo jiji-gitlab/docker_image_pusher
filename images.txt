@@ -1,2 +1,2 @@
 polardb/polardb-for-postgres:latest
-polardb/polardb-for-postgres:latest
+kibana:5.7.3
