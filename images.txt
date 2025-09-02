@@ -1,1 +1,2 @@
 polardb/polardb-for-postgres:latest
+polardb/polardb-for-postgres:latest
