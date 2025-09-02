@@ -1,2 +1,3 @@
-polardb/polardb-for-postgresc:latest
-nacos/nacos-server:latest 
+polardbx/polardbx-server:latest
+
+
