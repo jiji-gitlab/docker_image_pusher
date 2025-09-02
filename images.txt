@@ -1,4 +1,2 @@
-elasticsearch:6.3.2
-logstash:6.3.2
-kibana:6.3.2
+polardb/polardb-for-postgres:latest
 
