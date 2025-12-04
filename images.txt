@@ -1,1 +1,2 @@
 byjg/nginx-extras:1.26
+mysql:8.0.44
