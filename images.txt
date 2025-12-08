@@ -1,4 +1,3 @@
-mysql:8.0.44
 rancher/fleet-agent:v0.5.3
 rancher/rancher-agent:v2.6.3
 
