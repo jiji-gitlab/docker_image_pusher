@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.5.3
+tomcat:8.5.71-jre8
