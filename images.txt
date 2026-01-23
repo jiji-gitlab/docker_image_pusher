@@ -1,1 +1,1 @@
-greptime/greptimedb:v0.15.3
+tomcat:8.5.71-jre8
