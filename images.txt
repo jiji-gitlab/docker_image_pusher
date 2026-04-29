@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+rancher/mirrored-pause:3.6
