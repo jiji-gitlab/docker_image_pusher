@@ -1,1 +1,1 @@
-rancher/rancher:latest
+rancher/mirrored-coredns-coredns:1.12.3
