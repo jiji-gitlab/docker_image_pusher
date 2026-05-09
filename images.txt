@@ -1,1 +1,1 @@
-rancher:latest
+rancher/rancher:latest
