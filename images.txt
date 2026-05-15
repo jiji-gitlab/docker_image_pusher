@@ -1,4 +1,1 @@
-rancher/rancher-webhook:v0.9.3
-rancher/system-upgrade-controller:v0.17.0
-rancher/turtles:v0.25.4
-rancher/remotedialer-proxy:v0.6.0
+rancher/fleet:v0.14.3
