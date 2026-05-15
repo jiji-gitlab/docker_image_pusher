@@ -1,1 +1,4 @@
-haproxy:3.0.1-alpine3.20
+rancher/rancher-webhook:v0.9.3
+rancher/system-upgrade-controller:v0.17.0
+rancher/turtles:v0.25.4
+rancher/remotedialer-proxy:v0.6.0
