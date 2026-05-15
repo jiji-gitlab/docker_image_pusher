@@ -1,1 +1,1 @@
-/rancher/shell:v0.6.2
+rancher/mirrored-coredns-coredns:1.12.3
