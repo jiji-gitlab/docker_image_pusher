@@ -1,2 +1,2 @@
-rancher/fleet-agent:v0.11.2
+nginx:alpine
 
