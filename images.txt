@@ -1,2 +1,2 @@
 redis:7.0.5
-elasticsearch/elasticsearch:7.17.13
+elasticsearch:7.17.13
