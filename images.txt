@@ -1,2 +1,2 @@
-registry
-
+redis/redis:7.0.5
+elasticsearch/elasticsearch:7.17.13
